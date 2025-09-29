@@ -6,8 +6,9 @@
 | ID  | Test Name      | # | Status| Notes                  |
 |-----|----------------|---|-------|------------------------|
 | 1   | XYZ            | 1 | FAIL  | Version file update only|
-| 2   | XYZ            | 2 | FAIL  | Version file and commit  |
-| 3   | XYZ            | 3 | FAIL  | Version file+commit+PR  |
+| 2   | XYZ            | 2 | Open  | Version file and commit  |
+| 3   | XYZ            | 3 | Open  | Version file+commit+PR  |
+| 4   | XYZ            | 3 | Open  | Version in readme  |
 | 4   | Commit v Docs  | 1 | Open  |     |
 | 5   | Commit v Docs  | 2 | Open  |     |
 | 6   | Commit v Docs  | 3 | Open  |      |
