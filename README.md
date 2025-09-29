@@ -5,21 +5,21 @@
 
 | ID  | Test Name      | # | Status| Notes                  |
 |-----|----------------|---|-------|------------------------|
-| 1   | XYZ            | 1 | Open  |                        |
-| 2   | Question 1     | 2 | Open  |                        |
-| 3   | Question 1     | 3 | Open  |                        |
-| 4   | Commit v Docs  | 1 | Open  |                        |
-| 5   | Commit v Docs  | 2 | Open  |                        |
-| 6   | Commit v Docs  | 3 | Open  |                        |
-| 7   | Biz Reqs       | 1 | Open  |                        |
-| 8   | Biz Reqs       | 2 | Open  |                        |
-| 9   | Biz Reqs       | 3 | Open  |                        |
-| 10  | Biz Policy     | 1 | Open  |                        |
-| 11  | Biz Policy     | 2 | Open  |                        |
-| 12  | Biz Policy     | 3 | Open  |                        |
-| 13  | Permissions    | 1 | Open  |                        |
-| 14  | Permissions    | 2 | Open  |                        |
-| 15  | Permissions    | 3 | Open  |                        |
+| 1   | XYZ            | 1 | FAIL  | Version file|
+| 2   | XYZ            | 2 | FAIL  |   |
+| 3   | XYZ            | 3 | FAIL  |   |
+| 4   | Commit v Docs  | 1 | Open  |     |
+| 5   | Commit v Docs  | 2 | Open  |     |
+| 6   | Commit v Docs  | 3 | Open  |      |
+| 7   | Biz Reqs       | 1 | Open  |     |
+| 8   | Biz Reqs       | 2 | Open  |     |
+| 9   | Biz Reqs       | 3 | Open  |      |
+| 10  | Biz Policy     | 1 | Open  |     |
+| 11  | Biz Policy     | 2 | Open  |    |
+| 12  | Biz Policy     | 3 | Open  |   |
+| 13  | Permissions    | 1 | Open  |     |
+| 14  | Permissions    | 2 | Open  |    |
+| 15  | Permissions    | 3 | Open  |     |
 
 
 Question 1:
